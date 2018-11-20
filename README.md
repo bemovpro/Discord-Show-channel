@@ -1,4 +1,4 @@
-# Discord-Show-channel
+# Discord-Show-Channel
 <br/>
 <br/>
 <div>
